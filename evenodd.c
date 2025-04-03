@@ -13,6 +13,7 @@ if(no%2==0)
   printf("Even");
 else
   printf("odd");
+  printf("it is a c programming");
 }
 
 
